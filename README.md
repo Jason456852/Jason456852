@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jason456852
 - 👀 I’m interested in building simple projects currently
-- 🌱 I’m currently learning Javascript, Python, C++, React, CSS, SQL, PSQL
+- 🌱 I’m currently learning Javascript, Python, C++, React, CSS, SQL, PSQL. Also tried UE5.
 - ✔  I have done some mini projects such as paper form reader, live camera system
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: pakling.yeung456852@gmail.com
